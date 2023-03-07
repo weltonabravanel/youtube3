@@ -16,10 +16,6 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'Notícias', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
-  { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Musicas', icon: <MusicNoteIcon /> },
   { name: 'Educação', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
@@ -32,6 +28,10 @@ export const categories = [
   { name: 'Comedia', icon: <TheaterComedyIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
+  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Coding', icon: <CodeIcon />, },
+  { name: 'ReactJS', icon: <CodeIcon />, },
+  { name: 'NextJS', icon: <CodeIcon />, },
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
